@@ -5,7 +5,7 @@ using System.Web;
 
 namespace Fundamentos_MVC.Models
 {
-    public enum CuisineType
+    public enum CusineType
     {
         None,
         Italian,
