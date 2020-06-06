@@ -1,5 +1,8 @@
-﻿using System;
+﻿
+using Fundamentos_MVC.Models;
+using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -11,6 +14,8 @@ namespace Fundamentos_MVC.Controllers
         // GET: Greeting
         public ActionResult Index()
         {
+            //var model = new GreetingViewModel();
+            //model.Mensaje = ConfigurationManager.AppSettings["message"];
             return View();
         }
 

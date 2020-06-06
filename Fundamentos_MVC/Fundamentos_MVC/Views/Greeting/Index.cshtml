@@ -1,4 +1,4 @@
-﻿
+﻿@model Fundamentos_MVC.Models.GreetingViewModel
 @{
     ViewBag.Title = "Index";
 }
@@ -6,3 +6,7 @@
 <h2>Index</h2>
 Esto es un testeo
 Hola mundo!! :3
+
+<div>
+    @Model.Mensaje!
+</div>

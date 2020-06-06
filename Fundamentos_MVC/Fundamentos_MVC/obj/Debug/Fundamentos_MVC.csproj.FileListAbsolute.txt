@@ -170,3 +170,14 @@ C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\
 C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\obj\Debug\Fundamentos_MVC.csproj.CopyComplete
 C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\obj\Debug\Fundamentos_MVC.dll
 C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\obj\Debug\Fundamentos_MVC.pdb
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Autofac.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Autofac.Integration.Mvc.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Autofac.pdb
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Autofac.xml
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Autofac.Integration.Mvc.xml
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Threading.Tasks.Extensions.xml
