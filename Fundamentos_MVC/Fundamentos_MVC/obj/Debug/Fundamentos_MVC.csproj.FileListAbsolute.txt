@@ -181,3 +181,9 @@ C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\
 C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Web.Http.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Web.Http.xml
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\System.Web.Http.WebHost.xml
