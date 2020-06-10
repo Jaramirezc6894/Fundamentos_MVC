@@ -9,16 +9,16 @@ namespace Fundamentos_MVC.Controllers
 {
     public class HomeController : Controller
     {
-        IRestaurantData db;
+        //IRestaurantData db;
 
-        public HomeController(IRestaurantData db)
-        {
-            this.db = db;
-        }
+        //public HomeController(IRestaurantData db)
+        //{
+        //    this.db = db;
+        //}
         public ActionResult Index()
         {
-            var model = db.GetAll();
-            return View(model);
+            //var model = db.GetAll();
+            return View();
         }
 
         public ActionResult About()
