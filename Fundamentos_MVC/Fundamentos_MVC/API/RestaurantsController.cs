@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Fundamentos_MVC.Models;
+using Fundamentos_MVC.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -9,9 +11,16 @@ namespace Fundamentos_MVC.API
 {
     public class RestaurantsController : ApiController
     {
-        public string Get()
+        private readonly IRestaurantData db;
+        public RestaurantsController(IRestaurantData db)
         {
-            return "Hello, World!!";
+            this.db = db;
+        }
+
+        public IEnumerable<Restaurant> Get()
+        {
+            var model = db.GetAll();
+            return model;
         }
     }
 }
