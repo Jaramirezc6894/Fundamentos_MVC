@@ -8,7 +8,7 @@ namespace Fundamentos_MVC.Services
     public class InMemoryRestaurantData : IRestaurantData
     {
         List<Restaurant> restaurants;
-        
+
         public InMemoryRestaurantData()
         {
             restaurants = new List<Restaurant>()
@@ -24,10 +24,10 @@ namespace Fundamentos_MVC.Services
             restaurants.Add(restaurant);
             restaurant.Id = restaurants.Max(r => r.Id) + 1;
         }
-        public void Update (Restaurant restaurant)
+        public void Update(Restaurant restaurant)
         {
             var existing = Get(restaurant.Id);
-            if(existing != null)
+            if (existing != null)
             {
                 existing.Name = restaurant.Name;
                 existing.Cuisine = restaurant.Cuisine;
@@ -42,7 +42,16 @@ namespace Fundamentos_MVC.Services
         public IEnumerable<Restaurant> GetAll()
         {
             return restaurants.OrderBy(r => r.Name);
-            
+
+        }
+        public void Delete(int id)
+        {
+            var restaurant = Get(id);
+            if (restaurant != null)
+            {
+                restaurants.Remove(restaurant);
+            }
+
         }
     }
 }

@@ -190,3 +190,7 @@ C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\
 C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Autofac.Integration.WebApi.dll
 C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Autofac.Integration.WebApi.pdb
 C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\Autofac.Integration.WebApi.xml
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\EntityFramework.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\EntityFramework.xml
+C:\Users\tecad\Documents\GitHub\Fundamentos_MVC\Fundamentos_MVC\Fundamentos_MVC\bin\EntityFramework.SqlServer.xml
